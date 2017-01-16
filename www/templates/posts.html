@@ -1,0 +1,16 @@
+<ion-view view-title="Latest Posts">
+  <ion-content lazy-scroll>
+	<ion-refresher
+		pulling-text="Pull to refresh..."
+		on-refresh="doRefresh()">
+	</ion-refresher>
+    <ion-list>
+		<ion-item ng-repeat="post in posts" class="item item-thumbnail-left" href="#/app/posts/{{post.ID}}">
+		  <img image-lazy-src="{{post.featured_image.source}}" ng-cache image-lazy-loader="spiral" />
+		  <h2 ng-bind-html="post.title"></h2>
+		  <div class="item-excerpt" ng-bind-html="post.excerpt"></div>
+		</ion-item>
+    </ion-list>
+	<ion-infinite-scroll ng-if="moreDataExists()" on-infinite="loadMore()" distance="1%"></ion-infinite-scroll>
+  </ion-content>
+</ion-view>

@@ -1,0 +1,18 @@
+.item-excerpt{
+	white-space: normal !important;
+}
+.item-single-cont {
+    padding: 15px;
+}
+.item-single-cont  h2{
+    font-size:25px;
+}
+.item-single-cont p{
+    font-size:15px;
+}
+.item-content .image-loader-container{
+    left: 30px;
+    position: absolute;
+    top: 30px;
+    width: 30px;
+}

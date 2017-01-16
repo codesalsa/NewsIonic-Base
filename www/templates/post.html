@@ -1,0 +1,9 @@
+<ion-view view-title="{{post.title}}">
+	<ion-content class="has-header">
+		<img src="{{post.featured_image.source}}" width="100%" img-cache/>
+		<div class="item-single-cont">
+			<h2 ng-bind-html="post.title"></h2>
+			<div ng-bind-html="post.content"></div>
+		</div>
+	</ion-content>
+</ion-view>
