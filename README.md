@@ -5,11 +5,11 @@ IONIC Framework Hybrid Mobile Application for News / Blog
 
 <p>NewsIonic is a Phonegap based Hybrid Mobile App for IOS, Android platform built with AngularJS, IONIC Framework and Wordpress WP-API. It is also integrated with different cordova plugins. This Hybrid Application is mainly meant for News Portals and Blogs developed using Wordpress CMS platform.</p>
 
-<img src="https://codesalsa.net/wp-content/uploads/2016/07/marketing01-1-300x200.png" />
-<img src="https://codesalsa.net/wp-content/uploads/2016/07/marketing02-1-300x225.png" />
-<img src="https://codesalsa.net/wp-content/uploads/2016/07/marketing03-1-300x225.png" />
-<img src="https://codesalsa.net/wp-content/uploads/2016/07/marketing04-1-300x225.png" />
-<img src="https://codesalsa.net/wp-content/uploads/2016/07/marketing05-1-300x225.png" />
+<img src="https://codesalsa.net/wp-content/uploads/2016/07/marketing01-1.png" />
+<img src="https://codesalsa.net/wp-content/uploads/2016/07/marketing02-1.png" />
+<img src="https://codesalsa.net/wp-content/uploads/2016/07/marketing03-1.png" />
+<img src="https://codesalsa.net/wp-content/uploads/2016/07/marketing04-1.png" />
+<img src="https://codesalsa.net/wp-content/uploads/2016/07/marketing05-1.png" />
 
 <h3>Features</h3>
 <p>NewsIonic Hybrid Mobile Application is mainly meant for building Mobile App for any News / Blog websites developed using Wordpress CMS platform. This app is developed with several general as well as advanced features. These are:</p>
